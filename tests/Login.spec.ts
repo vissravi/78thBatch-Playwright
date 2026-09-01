@@ -10,7 +10,7 @@ test('TC001_Login_logout',async({page})=>{
     await obj.waitStmt();
     await obj.logout();
     await obj.waitStmt();
-   
+    console.log("********");    
 
 
 });
