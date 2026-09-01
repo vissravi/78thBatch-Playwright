@@ -1,0 +1,6 @@
+Application Opened
+Wait for 3 seconds
+Login Completed
+Wait for 3 seconds
+Logout completed
+Wait for 3 seconds
