@@ -12,5 +12,6 @@ test('TC002_Add_Employee',async ({ page })=>{
     await obj.waitStmt();
     await obj.logout();
     await obj.waitStmt();
+    console.log("***");
 
 });
